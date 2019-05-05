@@ -1,0 +1,2 @@
+# WumpusWorld
+AI project
